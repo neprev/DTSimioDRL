@@ -5,7 +5,7 @@ import dill
 from keras.models import load_model, save_model
 import numpy as np
 
-#op
+#Connect
 conn = pyodbc.connect('DRIVER={SQL Server};SERVER=DESKTOP-TJNK3RM;DATABASE=DRL;Trusted_Connection=yes;')
 cursor = conn.cursor()
 

@@ -7,7 +7,7 @@ from keras.optimizers import Adam
 from keras.models import save_model
 import dill
 
-#op
+#Connect
 conn = pyodbc.connect('DRIVER={SQL Server};SERVER=DESKTOP-TJNK3RM;DATABASE=DRL;Trusted_Connection=yes;')
 cursor = conn.cursor()
 
