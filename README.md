@@ -1,2 +1,2 @@
-# SimioDRL
-Deep Reinforcement Learning for Simio
+# DTSimioDRL
+Digital Twin Deep Reinforcement Learning for Simio
